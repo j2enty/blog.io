@@ -1,3 +1,11 @@
+---
+title: "MarketPrice Privacy policy (en)"
+categories:
+  - MarketPrice
+tags:
+---
+
+
 # MarketPrice
 
 ### Privacy Policy
